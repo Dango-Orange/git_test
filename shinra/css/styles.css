@@ -30,6 +30,7 @@ body {
     max-height: 95px;
     height: 7vw;
     width: 20vw;
+    min-width: 90px;
     opacity: 1;
     -webkit-transition: 0.3s ease-in-out;
     transition: 0.3s ease-in-out;
@@ -40,6 +41,7 @@ body {
   }
 
 .shinra-news {
+  min-width: 80px;
   max-height: 95px;
   height: 7.2vw;
   display: inline-block;
@@ -53,6 +55,7 @@ body {
   }
 
 .neo {
+  min-width: 80px;
   max-height: 95px;
   height: 7.1vw;
   display: inline-block;
