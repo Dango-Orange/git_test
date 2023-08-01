@@ -159,7 +159,7 @@ iframe {
 h4 {
   border: 2px solid rgb(0, 0, 0);
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
-  font-size: 1.3vw;
+  font-size: 1.4vw;
   color: rgb(0, 0, 0);
   margin: auto;
   text-align: center;
@@ -195,7 +195,7 @@ p {
   padding-right: 15px;
   padding-left: 15px;
   color: rgb(255, 255, 255);
-  font-size: 2.5vw;
+  font-size: 20px;
 }
 
 i {
