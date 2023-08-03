@@ -39,8 +39,16 @@ nav p:hover {
     background-color: rgb(186, 219, 218);
 }
 
+nav p:active {
+    background-color: rgb(186, 219, 218);
+}
+
 nav li:hover {
     background-color: rgb(102, 156, 154);
+}
+
+nav li:active {
+    background-color: rgb(186, 219, 218);
 }
 
 nav a {
